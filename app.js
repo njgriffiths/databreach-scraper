@@ -1,4 +1,4 @@
-var fetch = require('../fetch-xml');
+var fetch = require('./fetch-xml');
 var mysql = require('./sql-import');
 var cheerio = require('cheerio');
 
