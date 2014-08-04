@@ -1,0 +1,1753 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.privacyrights.org/data-breach-asc?title=" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Chronology of Data Breaches</title>
+    <link>https://www.privacyrights.org/data-breach-asc?title=</link>
+    <description></description>
+    <language>en-CU</language>
+          <item>
+    <title>Dominion Resources Inc.</title>
+    <link>https://www.privacyrights.org/content/dominion-resources-inc</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;6th FL P.O. Box 26532&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Richmond&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;VA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=6th+FL+P.O.+Box+26532%2C+Richmond%2C+VA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 21, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;6th FL P.O. Box 26532&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Richmond&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;VA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=6th+FL+P.O.+Box+26532%2C+Richmond%2C+VA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;1,700&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Personal information of more than 1,700 people at Dominion Resources Inc. were compromised when unauthorized parties hacked the employee wellness plan. The hacker gained access via a subcontractor&#039;s system, StayWell Health Management LLC who runs Dominions &quot;Well on Your Way&quot; program which includes a health screening, to gain the information hacked.&lt;/p&gt;&lt;p&gt;The hacking actually occurred at a vendor Stay Well uses, Onsite Health Diagnostics, based in Irvine, Texas, that provideds the sign-up mechanism for &quot;Well on Your Way&#039;s&quot; health-screening appointments. &lt;/p&gt;&lt;p&gt;The information included individuals&#039; names, addresses, email addresses, phone numbers, gender and dates of birth of employees, spouses and domestic partners who went online to schedul a health-screening appointment going back to 2012. &lt;/p&gt;&lt;p&gt;&quot;Dominion Resources said the company was notified of the breach on June 24 but didn&#039;t learn the identities of those affected until July 7th. Dominion Resources is investigating why it took so long for the company to be notified. They are no longer using Onsite Health Diagnostics for scheduling&quot;.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Media        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/268">HACK</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/262">BSO</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Mon, 21 Jul 2014 18:47:20 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59399 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Penn Medicine Rittenhouse</title>
+    <link>https://www.privacyrights.org/content/penn-medicine-rittenhouse</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;1800 Lombard Street&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Philadelphia&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;PA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-215-893-5000&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=1800+Lombard+Street%2C+Philadelphia%2C+PA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 18, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;1800 Lombard Street&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Philadelphia&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;PA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-215-893-5000&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=1800+Lombard+Street%2C+Philadelphia%2C+PA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;661&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Penn Medicine had to announce a data breach involving receipts that were stolen last month from a locked office in Pennsylvania Hospital. &lt;/p&gt;&lt;p&gt;The information on the receipts included combinations of patient names, dates of birth and the last four digits of credit card numbers.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Media        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/264">PHYS</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/258">MED</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Mon, 21 Jul 2014 18:59:06 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59400 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Total Bank</title>
+    <link>https://www.privacyrights.org/content/total-bank</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;100 S.E Second Street&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Miami&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;FL&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=100+S.E+Second+Street%2C+Miami%2C+FL%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 17, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;100 S.E Second Street&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Miami&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;FL&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=100+S.E+Second+Street%2C+Miami%2C+FL%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;72,500&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    72500        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Total Bank,&lt;strong&gt;&amp;nbsp;&lt;/strong&gt; a subsidiary 
+of Banco Popular that has 21 locations in South Florida, is notifying 
+72,500 customers that their account information was potentially exposed 
+after an unauthorized third party gained access to the bank&#039;s computer 
+network.&lt;/p&gt;&lt;p&gt;Information obtained by this unauthorized third party included names, addresses, account numbers, account balances, Social Security numbers and driver&#039;s license numbers.&lt;/p&gt;&lt;p&gt;The bank is offering 12 months free of credit monitoring services for those that were affected.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Media        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/268">HACK</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/260">BSF</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Fri, 18 Jul 2014 16:04:00 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59372 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Douglas County School District</title>
+    <link>https://www.privacyrights.org/content/douglas-county-school-district</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;620 Wilcox Street&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Castle Rock&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;CO&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-303-387-0100&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=620+Wilcox+Street%2C+Castle+Rock%2C+CO%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 16, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;620 Wilcox Street&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Castle Rock&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;CO&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-303-387-0100&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=620+Wilcox+Street%2C+Castle+Rock%2C+CO%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;Unknown&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Douglas County School District notified employees of a data breach of their personal information when a laptop containing their personal information was stolen.&lt;/p&gt;&lt;p&gt;In a letter sent to district employees, the district stated that the stolen computer contained some workers&#039; Social Security numbers and bank
+ account information.&lt;/p&gt;&lt;p&gt;The district is currently investigating the breach.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Media        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/265">PORT</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/259">EDU</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Tue, 22 Jul 2014 14:08:25 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59414 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Apple Valley Christian Care Center</title>
+    <link>https://www.privacyrights.org/content/apple-valley-christian-care-center</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;11959 Apple Valley Road&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Apple Valley&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;CA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-760-240-5051&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=11959+Apple+Valley+Road%2C+Apple+Valley%2C+CA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 16, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;11959 Apple Valley Road&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Apple Valley&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;CA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-760-240-5051&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=11959+Apple+Valley+Road%2C+Apple+Valley%2C+CA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;500&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    500        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Apple Valley Christian Care Center has notified individuals of a security breach of their system when a &quot;technical glitch&quot; occurred. The center communicated that the compromised data varied greatly.&lt;/p&gt;&lt;p&gt;The information included Social Security numbers, dates of birth, home addresses, dates of stays, Medi-Cal ID numbers, Medicare ID numbers, and/or other insurance information such as Medi-Cal appeals, diagnosis codes, treatment information and medical history.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    PHIPrivacy.net        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/269">DISC</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/258">MED</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Mon, 21 Jul 2014 19:22:07 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59401 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Central City Concern</title>
+    <link>https://www.privacyrights.org/content/central-city-concern-0</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;232 NW 6th Avenue&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Portland&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;OR&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-503-294-1681&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=232+NW+6th+Avenue%2C+Portland%2C+OR%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 16, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;232 NW 6th Avenue&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Portland&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;OR&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-503-294-1681&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=232+NW+6th+Avenue%2C+Portland%2C+OR%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;15&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    15        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Central City Concern in Oregon suffered a data breach when an unauthorized access resulted in the breach of clients data. &lt;/p&gt;&lt;p&gt;&quot;On April 2, 2014, a federal law enforcement official notified Central City Concern that a former Central City Concern employee has been accused of improperly copying information from approximately 15 Central City Concern clients from its Employment Access Center (EAC) program with the intent of processing fraudulent tax returns in their names&quot;. &lt;/p&gt;&lt;p&gt;The information breached included names, dates of birth, Social Security numbers, addresses, and health information of EAC clients.&lt;/p&gt;&lt;p&gt;Client inquiries regarding this incident may be directed to &lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;img src=&quot;resource://skype_ff_extension-at-jetpack/skype_ff_extension/data/call_skype_logo.png&quot; alt=&quot;&quot; width=&quot;0&quot; height=&quot;0&quot; /&gt;&lt;span&gt;&lt;span class=&quot;skype_c2c_print_container notranslate&quot;&gt;866-778-1144&lt;/span&gt;&lt;span class=&quot;skype_c2c_container notranslate&quot;&gt;&lt;span class=&quot;skype_c2c_highlighting_inactive_common&quot;&gt;&lt;span class=&quot;skype_c2c_textarea_span&quot;&gt;&lt;img class=&quot;skype_c2c_logo_img&quot; src=&quot;resource://skype_ff_extension-at-jetpack/skype_ff_extension/data/call_skype_logo.png&quot; alt=&quot;&quot; width=&quot;0&quot; height=&quot;0&quot; /&gt;&lt;span class=&quot;skype_c2c_text_span&quot;&gt;866-778-1144&lt;/span&gt;&lt;span class=&quot;skype_c2c_free_text_span&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, Monday through Friday from 6:00 AM to 6:00 PM Pacific Time.&amp;nbsp;&lt;/p&gt;&lt;div id=&quot;skype_c2c_menu_container&quot; class=&quot;skype_c2c_menu_container notranslate&quot; style=&quot;display: none;&quot; onmouseover=&quot;SkypeClick2Call.MenuInjectionHandler.showMenu(this, event)&quot; onmouseout=&quot;SkypeClick2Call.MenuInjectionHandler.hideMenu(this, event)&quot;&gt;&lt;div class=&quot;skype_c2c_menu_click2call&quot;&gt;&lt;a target=&quot;_self&quot; class=&quot;skype_c2c_menu_click2call_action&quot; id=&quot;skype_c2c_menu_click2call_action&quot;&gt;Call&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;skype_c2c_menu_click2sms&quot;&gt;&lt;a target=&quot;_self&quot; class=&quot;skype_c2c_menu_click2sms_action&quot; id=&quot;skype_c2c_menu_click2sms_action&quot;&gt;Send SMS&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;skype_c2c_menu_add2skype&quot;&gt;&lt;a target=&quot;_self&quot; class=&quot;skype_c2c_menu_add2skype_text&quot; id=&quot;skype_c2c_menu_add2skype_text&quot;&gt;Add to Skype&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;skype_c2c_menu_toll_info&quot;&gt;&lt;span class=&quot;skype_c2c_menu_toll_callcredit&quot;&gt;You&#039;ll need Skype Credit&lt;/span&gt;&lt;span class=&quot;skype_c2c_menu_toll_free&quot;&gt;Free via Skype&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    PHIPrivacy.net        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/269">DISC</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/263">NGO</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Wed, 16 Jul 2014 20:29:42 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59365 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Bay Area Pain Medical Associates</title>
+    <link>https://www.privacyrights.org/content/bay-area-pain-medical-associates</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;3 Harbor Drive, Suite 115&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Sausalito&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;CA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=3+Harbor+Drive%2C+Suite+115%2C+Sausalito%2C+CA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 16, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;3 Harbor Drive, Suite 115&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Sausalito&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;CA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=3+Harbor+Drive%2C+Suite+115%2C+Sausalito%2C+CA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;2,780&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Bay Area Pain Medical Associates have notified patients of a data breach when several of their desktop computers were stolen. &lt;/p&gt;&lt;p&gt;There were approximately 2,780 patients first and last names, number of years the patients had been seen at their practice. The are reporting that the computer data was encrypted and inaccessible, there was an Excel spreadsheet that containing this information that could have possibly been accessed. No Social Security numbers, dates of birth, financial information, contact information or medical information was exposed.&lt;/p&gt;&lt;p&gt;The facility is offering 12 months free of AllClearID. Those affected can call 1-877-579-2269.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    California Attorney General        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/266">STAT</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/258">MED</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Mon, 21 Jul 2014 14:46:49 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59398 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Atlantic Automotive Corporation/dba One Mile Automotive</title>
+    <link>https://www.privacyrights.org/content/atlantic-automotive-corporationdba-one-mile-automotive</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;1 Olympic Place&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Towson&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;MD&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=1+Olympic+Place%2C+Towson%2C+MD%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 15, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;1 Olympic Place&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Towson&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;MD&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=1+Olympic+Place%2C+Towson%2C+MD%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;Unknown&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;One Mile Automotive is notifying customers of a data breach of one of their third party vendors, Trade Motion who operates automobile websites and has notified One Mile Automotive that this breach could have included personal information of some of its customers.&lt;/p&gt;&lt;p&gt;The information included names, addresses, email addreasses, telephone numbers, credit card information.&lt;/p&gt;&lt;p&gt;Those who are affected should call 1-855-505-2774.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    California Attorney General        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/268">HACK</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/262">BSO</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Mon, 21 Jul 2014 03:39:02 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59395 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>City of Encinitas/San Dieguito Water District</title>
+    <link>https://www.privacyrights.org/content/city-encinitassan-dieguito-water-district</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Encinitas&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;CA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Encinitas%2C+CA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 15, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Encinitas&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;CA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Encinitas%2C+CA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;Unknown&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&quot;City of Encinitas and San Dieguito Water District recently were made aware that a Cal-PERS payment document containing Social Security numbers with corresponding employee and former employee names had inadvertently been made accessible to the public on the City’s website on or about May 13, 2014 to July 3, 2014. Based on our research, we found the exposure has been limited to (16) people that accessed the document during that period.&quot;&lt;/p&gt;&lt;p&gt;The document contained information of employees and former employees who were enrolled in Cal-PERS during the following timeframes:&lt;/p&gt;&lt;p&gt;City of Encinitas–July 1993-October 2011&lt;/p&gt;&lt;p&gt;City of Encinitas Fire Safety/Fire Protection District–July 1986–October 2011&lt;/p&gt;&lt;p&gt;San Dieguito Water District-July 1989–October 2011&lt;/p&gt;&lt;p&gt;The city of Encinitas is offering 1 year free membership of Protect MyID Alert from Consumer Info.com by Experian. &lt;/p&gt;&lt;p&gt;For those affected with questions contact Courtney Barrett at 760-633-2631 or Jace Schwarm at 760-633-2636.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div style=&quot;font-size: 20px; font-family: sans-serif; left: 347.283px; top: 624.663px; transform: rotate(0deg) scale(0.900901, 1); transform-origin: 0% 0% 0px;&quot; dir=&quot;ltr&quot;&gt;  &lt;/div&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    California Attorney General        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/269">DISC</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/257">GOV</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Mon, 21 Jul 2014 04:03:58 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59396 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Bank of The West</title>
+    <link>https://www.privacyrights.org/content/bank-west-0</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;180 Montgomery Street&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;San Francisco&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;CA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=180+Montgomery+Street%2C+San+Francisco%2C+CA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 15, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;180 Montgomery Street&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;San Francisco&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;CA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=180+Montgomery+Street%2C+San+Francisco%2C+CA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;Unknown&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Bank of The West notified customers of an email scam that involved two employees&#039; remote bank email login credentials being compromised. As a result of this unauthorized access, customer information could be at risk. &lt;/p&gt;&lt;p&gt;The information includes names, account numbers, loan numbers, Social Security numbers. &lt;/p&gt;&lt;p&gt;The bank if offering one year free of First Watch ID for those affected. For those with questions regarding the service they can call 1-866-310-7373 or 1-800-488-2265.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    California Attorney General        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/268">HACK</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/260">BSF</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Mon, 21 Jul 2014 04:50:53 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59397 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Orangeburg-Calhoun Technical College</title>
+    <link>https://www.privacyrights.org/content/orangeburg-calhoun-technical-college</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;3250 St. South Matthews Road&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Orangeburg&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;SC&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-803-536-0311&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=3250+St.+South+Matthews+Road%2C+Orangeburg%2C+SC%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 14, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;3250 St. South Matthews Road&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Orangeburg&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;SC&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-803-536-0311&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=3250+St.+South+Matthews+Road%2C+Orangeburg%2C+SC%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;20,000&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    20000        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&quot;&lt;a href=&quot;http://www.octech.edu/about/data_security_update.aspx&quot;&gt;&lt;strong&gt;Orangeburg-Calhoun Technical College&lt;/strong&gt;&lt;/a&gt;
+ in South Carolina is notifying 20,000 former and current students and 
+faculty members that an unencrypted laptop computer stolen this month 
+from a staff member&#039;s office contained their personal information.&quot;&lt;/p&gt;&lt;p&gt;The information contained on the laptops included names, birth dates and Social Security numbers of individuals.&lt;/p&gt;&lt;p&gt;The college stated that the information goes back 6 or 7 years and that they believe the thief was after the hardware, not the data stored on it. The college neglected to comment on whether or not they are providing credit monitoring services for those affected.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Media        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/265">PORT</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/259">EDU</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Fri, 18 Jul 2014 16:13:20 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59373 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Goodwill Industries International Inc.</title>
+    <link>https://www.privacyrights.org/content/goodwill-industries-international-inc</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Rockville&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;MD&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Rockville%2C+MD%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 14, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Rockville&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;MD&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Rockville%2C+MD%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;Unknown&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Financial institutions are tracking what appears to be fraudulent activity at numerous Goodwill retail stores. The fraudulent activity involves credit card breaches and that the compromised credit cards appear to have started at Goodwill stores across the country. The credit card information is then showing up at other retail establishments, similar to the breaches that occurred at Target, Neiman Marcus, P.F. Changs, etc.&lt;/p&gt;&lt;p&gt;“Goodwill Industries International was contacted last Friday 
+afternoon by a payment card industry fraud investigative unit and 
+federal authorities informing us that select U.S. store locations may 
+have been the victims of possible theft of payment card numbers,” the 
+company wrote in an email.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;“Investigators are currently reviewing available information,” the 
+statement continued. “At this point, no breach has been confirmed but an
+ investigation is underway. Goodwills across the country take the data 
+of consumers seriously and their community well-being is our number one 
+concern. Goodwill Industries International is working with industry 
+contacts and the federal authorities on the investigation. We will 
+remain appraised of the situation and will work proactively with any 
+individual local Goodwill involved taking appropriate actions if a data 
+compromise is uncovered.”&lt;/p&gt;&lt;p&gt;Goodwill Industries stated they learned of the potential breach on July 18th and is working with federal investigators to determine if the breach is legitimate and if legitimate. how many stores were affected. &lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Krebs On Security        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/268">HACK</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/261">BSR</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Tue, 22 Jul 2014 13:38:02 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59410 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>University of Illinois, Chicago</title>
+    <link>https://www.privacyrights.org/content/university-illinois-chicago</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Chicago&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;IL&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Chicago%2C+IL%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 11, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Chicago&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;IL&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Chicago%2C+IL%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;Unknown&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The University Illinois Chicago (UIC) notified former students of a data breach to their system that included the exposure of personal data.&lt;/p&gt;&lt;p&gt;&quot;A website security breach made two College of Business Administration 
+documents from the 2002 spring semester accessible — a roster from a 
+Special Topics in Accounting course and an advising list for all junior 
+and senior accounting majors, according to a statement from the 
+university&quot;.&lt;/p&gt;&lt;p&gt;Personal information was exposed, including Social Security numbers. The university has not stated how many students were affected, and the breach is currently under investigation.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Media        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/268">HACK</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/259">EDU</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Tue, 22 Jul 2014 14:01:54 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59413 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Boeing </title>
+    <link>https://www.privacyrights.org/content/boeing</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Seattle&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;WA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Seattle%2C+WA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 11, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Seattle&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;WA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Seattle%2C+WA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;Unknown&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p id=&quot;ember981&quot;&gt;&quot;Federal prosecutors have charged the owner of a Chinese aviation firm with trying to &lt;a href=&quot;http://www.nbcnews.com/news/investigations/breaking-bad-fan-arrested-trying-smuggle-military-gear-china-n130826&quot;&gt;steal data&lt;/a&gt;
+ about U.S. military aircraft by hacking into the computer networks of 
+Boeing and other U.S. companies, according to a federal complaint 
+unsealed in Los Angeles this week.
+        &lt;/p&gt;&lt;p id=&quot;ember982&quot;&gt;According to authorities, the individuals allegedly stole information on&amp;nbsp; Boeing’s C-17 transport 
+plane. Evidence shows that the Chinese hackers obtained large amounts of data on dozens of&amp;nbsp; military projects.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Media        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/268">HACK</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/262">BSO</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Fri, 18 Jul 2014 16:23:20 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59374 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Lockheed Martin</title>
+    <link>https://www.privacyrights.org/content/lockheed-martin</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Fortworth&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;TX&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Fortworth%2C+TX%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 11, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Fortworth&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;TX&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Fortworth%2C+TX%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;Unknown&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p id=&quot;ember982&quot;&gt;&quot;Federal prosecutors have charged the owner of a Chinese aviation firm with trying to &lt;a href=&quot;http://www.nbcnews.com/news/investigations/breaking-bad-fan-arrested-trying-smuggle-military-gear-china-n130826&quot;&gt;steal data&lt;/a&gt;
+ about U.S. military aircraft by hacking into the computer networks of Lockheed Martin and other U.S. companies, according to a federal complaint 
+unsealed in Los Angeles this week&quot;.&lt;/p&gt;&lt;p&gt;Allegedly, the Chinese hackers stole information 
+about Lockheed’s F-22 and F-35 fighter jets.&amp;nbsp; Large amount of data were stolen on a dozen U.S military projects.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Media        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/268">HACK</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/262">BSO</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Fri, 18 Jul 2014 16:26:42 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59375 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>University Development and Alumni Relations at the Penn State College of Medicine</title>
+    <link>https://www.privacyrights.org/content/university-development-and-alumni-relations-penn-state-college-medicine</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Philadelphia&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;PA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Philadelphia%2C+PA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 10, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Philadelphia&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;PA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Philadelphia%2C+PA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;1,176&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    1176        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Penn State has notified 1,176 individuals that a data breach of their personal information had been breached.&amp;nbsp; The Office of University Development and Alumni Relations 
+at the Penn State College of Medicine was found to be &quot;infected with malware that 
+enabled it to communicate with an unauthorized computer outside the 
+network&quot;.&lt;/p&gt;&lt;p&gt; The university used Social Security numbers as a personally identifiable number for students and these SSNs were found in an archived College of Medicine alumni 
+list last used in 2005. &lt;/p&gt;&lt;p&gt;The university put out this information:&lt;/p&gt;&lt;p&gt;&quot;For information about Penn State&#039;s efforts to minimize computer security risks, visit the University&#039;s Be Safe website at &lt;a href=&quot;http://its.psu.edu/be-safe&quot;&gt;http://its.psu.edu/be-safe&lt;/a&gt;. For more detailed information about identity theft risks and prevention, visit &lt;a href=&quot;http://www.ftc.gov/bcp/edu/microsites/idtheft/&quot;&gt;http://www.ftc.gov/bcp/edu/microsites/idtheft/&lt;/a&gt;.&quot;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Media        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/268">HACK</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/259">EDU</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Fri, 18 Jul 2014 17:25:11 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59377 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Office of Personnel Management</title>
+    <link>https://www.privacyrights.org/content/office-personnel-management</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;1900 E Street NW&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Washington&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;DC&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-202-606-1800&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=1900+E+Street+NW%2C+Washington%2C+DC%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 9, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;1900 E Street NW&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Washington&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;DC&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-202-606-1800&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=1900+E+Street+NW%2C+Washington%2C+DC%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;Unknown&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;In March 2014, it has been reported that Chinese hackers broke into the computer networks of the United States government, specifically The Office of Personnel Management, which houses personal information of all federal employees. The hackers appeared to be targeting the files on &quot;tens of thousands of employees who have applied for top-secret security clearance.&quot;&lt;/p&gt;&lt;p&gt;&quot;The
+ hackers gained access to some of the databases of the Office of 
+Personnel Management before the federal authorities detected the threat 
+and blocked them from the network, according to the officials. It is not
+ yet clear how far the hackers penetrated the agency’s systems, in which
+ applicants for security clearances list their foreign contacts, 
+previous jobs and personal information like past drug use.&quot;&lt;/p&gt;&lt;p&gt;This particular hacking is unusual as the US computer systems are constantly being hacked by international hackers, but up until this point, have been stopped before any information was compromised.&lt;/p&gt;&lt;p&gt;Currently, officials are investigating to pinpoint exactly where these attacks came from.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Media        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/268">HACK</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/257">GOV</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Fri, 11 Jul 2014 14:34:37 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59306 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>The Houstonian Hotel, Club and Spa</title>
+    <link>https://www.privacyrights.org/content/houstonian-hotel-club-and-spa</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;111 North Post Oak Lane&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Houston &lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;TX&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-713-685-7961&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=111+North+Post+Oak+Lane%2C+Houston+%2C+TX%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 8, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;111 North Post Oak Lane&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Houston &lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;TX&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-713-685-7961&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=111+North+Post+Oak+Lane%2C+Houston+%2C+TX%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;Unknown&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Secret Service notified The Houstonian Hotel, Club and Spa regarding a breach to their system that houses customer credit card information.&lt;/p&gt;&lt;p&gt;Once the notification happened, the company launched a forensics investigation and discovered that their POS system had been accessed by an unauthorized third party from December 2013 through June 2014, and that the credit card information stored on these systems were compromised.&lt;/p&gt;&lt;p&gt;The company has since stopped the intrusions, but has not communicated how many individuals were affected by the breach. The company is offering 12 months free of credit monitoring services for those affected. &lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Media        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/268">HACK</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/262">BSO</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Fri, 11 Jul 2014 15:14:55 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59308 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Aecom</title>
+    <link>https://www.privacyrights.org/content/aecom</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;555 South Flower Street&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Los Angles&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;CA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1.213.593.8000&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;fax&quot;&gt;Fax:&lt;/abbr&gt;
+  &lt;span&gt;1.213.593.8730&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=555+South+Flower+Street%2C+Los+Angles%2C+CA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 8, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;555 South Flower Street&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Los Angles&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;CA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1.213.593.8000&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;fax&quot;&gt;Fax:&lt;/abbr&gt;
+  &lt;span&gt;1.213.593.8730&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=555+South+Flower+Street%2C+Los+Angles%2C+CA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;Unknown&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Aecom has notified current and prior employees of a data breach that exposed employee personnel files. Hackers were able to penetrate their corporate network, which included the employee payroll system for the US specifically.&lt;/p&gt;&lt;p&gt;The information exposed inlcuded names, addresses, Social Security numbers, personal bank account numbers and routing numbers.&lt;/p&gt;&lt;p&gt;The company has set up 12 months of All ClearID at no cost. For those affected they can call which can be reached at 1-877-615-3770.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    California Attorney General        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/268">HACK</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/262">BSO</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Mon, 21 Jul 2014 03:08:48 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59394 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Heartland Automotive/Jiffy Lube</title>
+    <link>https://www.privacyrights.org/content/heartland-automotivejiffy-lube</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;105 Decker Court, Suite 900&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Irving&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;TX&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=105+Decker+Court%2C+Suite+900%2C+Irving%2C+TX%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 8, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;105 Decker Court, Suite 900&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Irving&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;TX&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=105+Decker+Court%2C+Suite+900%2C+Irving%2C+TX%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;Uknown&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Heartland Automotive (Jiffy Lube) has notified customers of a data breach that has occured when one of their company owned laptop was stolen with personal information on it.&lt;/p&gt;&lt;p&gt;The information included names, addresses, dates of birth, Social Security numbers.&lt;/p&gt;&lt;p&gt;The company is offering 12 months free of AllClearID. For those affected call 1-877-437-4004.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    California Attorney General        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/265">PORT</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/262">BSO</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Tue, 08 Jul 2014 17:31:32 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59284 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Legal Sea Foods </title>
+    <link>https://www.privacyrights.org/content/legal-sea-foods</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;One Seafood Way&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Boston&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;MA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-617-530-9000&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=One+Seafood+Way%2C+Boston%2C+MA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 7, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;One Seafood Way&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Boston&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;MA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-617-530-9000&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=One+Seafood+Way%2C+Boston%2C+MA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;Unknown&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Legal Sea Foods informed customers of a data breach that occured on June 5, 2014 that a segment of their mail order web sales and e-commerce environment, that an unauthorized person gained access to a server that contained information from mail order web customer transactions. &lt;/p&gt;&lt;p&gt;After an investigation, transactions made between Jaunary 1, 2014 and May 21, 2014 were potentially affected, which included transactions used with credit cards. Names, credit card numbers, card expiratin dates, and card verification values may have been breached. &lt;/p&gt;&lt;p&gt;The company has informed their payment processing company of the breach and the processor has been working with the credit card companies to provide them the card numbers of those affected. &lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Vermont Attorney General        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/268">HACK</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/262">BSO</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Mon, 07 Jul 2014 19:19:01 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59273 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>St. Vincent Breast Center</title>
+    <link>https://www.privacyrights.org/content/st-vincent-breast-center</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Indianapolis&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;IN&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Indianapolis%2C+IN%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 4, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Indianapolis&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;IN&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Indianapolis%2C+IN%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;63,000&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;St. Vincent Breast Center have announced that patient&#039;s health information may have been breached after the center sent around 63,000 letters to the wrong patients. The letters included patient names, addresses and in certain references to scheduled appointments. Reportedly no Social Security numbers, financial information or clinical information.&lt;/p&gt;&lt;p&gt;&quot;St.Vincent Breast Center&amp;nbsp;entered into an agreement with Indianapolis 
+Breast Center P.C. and Solis Women’s Health Breast Imaging Specialists 
+of Indiana P.C. after they both closed last year.&lt;/p&gt;
+&lt;p&gt;On May 5, St.Vincent Breast Center mailed letters intended for prior 
+patients of the Indianapolis Breast Center and Solis Women’s Health to 
+inform them that St.Vincent was available to provide care. Some letters 
+also welcomed patients who had previously scheduled healthcare services.&lt;/p&gt;
+&lt;p&gt;Officials said on May 15, people who had accidentally received another person’s letter began calling St.Vincent&quot;.&lt;/p&gt;&lt;p&gt;For those affected they can call 1-877-216-3862 from Monday through Friday 9:00 a.m. to 7:00 p.m.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Media        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/269">DISC</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/258">MED</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Mon, 07 Jul 2014 17:18:38 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59265 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Blue Shield of California/Department of Managed Healthcare</title>
+    <link>https://www.privacyrights.org/content/blue-shield-californiadepartment-managed-healthcare</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;San Francisco&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;CA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-916-322-6727&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+San+Francisco%2C+CA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 3, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;San Francisco&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;CA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-916-322-6727&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+San+Francisco%2C+CA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;18,000&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    18000        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The Department of Managed Health Care informed individuals of a breach concerning their personal information. Health plans regulated by the Department of Managed Health Care (DMHC) are required to provide the DMHC periodically with current rosters of the medical providers the health plans contract with. &lt;/p&gt;&lt;p&gt;These plans are not supposed to include confidential or personal information in the rosters because these rosters are generally public documents.&lt;/p&gt;&lt;p&gt;&quot;The DMHC discovered that Blue Shield of California had inadvertently included provider Social Security numbers in the rosters Blue Shield provided to the DMHC in February, March and April, 2013&quot;. Blue Shield neglected to inform the DMHC that the information was confidential or alert the DMHC that a mistake had been made on the documentation.&lt;/p&gt;&lt;p&gt;The information included Social Security numbers, providers&#039; names, business addresses, business telephone numbers, medical groups, and practice areas.&lt;/p&gt;&lt;p&gt;For those affected Blue Shield is offering you a free-one-year membership in Experian&#039;s ProtectMyID Alert.&amp;nbsp; For those with questions they can call 1-877-371-7902.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    California Attorney General        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/269">DISC</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/260">BSF</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Mon, 07 Jul 2014 18:42:27 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59272 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Watermark Retirement Communities</title>
+    <link>https://www.privacyrights.org/content/watermark-retirement-communities</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;2020 W. Rudasill Road&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Tuscon&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;AZ&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-520-797-4000&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=2020+W.+Rudasill+Road%2C+Tuscon%2C+AZ%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 3, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;&lt;/span&gt;
+&lt;div class=&quot;street-address&quot;&gt;2020 W. Rudasill Road&lt;/div&gt;
+&lt;span class=&quot;locality&quot;&gt;Tuscon&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;AZ&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;div class=&quot;tel&quot;&gt;
+  &lt;abbr class=&quot;type&quot; title=&quot;voice&quot;&gt;Phone:&lt;/abbr&gt;
+  &lt;span class=&quot;value&quot;&gt;1-520-797-4000&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=2020+W.+Rudasill+Road%2C+Tuscon%2C+AZ%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;Unknown&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Watermark Retirement Communities Inc. informed current and former employees of the facility of a data breach when a laptop was stolen on June 13, 2014. The information on these laptops included names, addresses, telephone numbers, email addresses, dates of birth and Social Security numbers. The laptop was password protected. &lt;/p&gt;&lt;p&gt;For those affected they can call &lt;span class=&quot;skype_c2c_print_container notranslate&quot;&gt;1-800-597-6618&lt;/span&gt;&lt;span class=&quot;skype_c2c_container notranslate&quot;&gt;&lt;span class=&quot;skype_c2c_highlighting_inactive_common&quot;&gt;&lt;span class=&quot;skype_c2c_textarea_span&quot;&gt;&lt;img class=&quot;skype_c2c_logo_img&quot; src=&quot;resource://skype_ff_extension-at-jetpack/skype_ff_extension/data/call_skype_logo.png&quot; alt=&quot;&quot; width=&quot;0&quot; height=&quot;0&quot; /&gt;&lt;span class=&quot;skype_c2c_text_span&quot;&gt;1-800-597-6618&lt;/span&gt;&lt;span class=&quot;skype_c2c_free_text_span&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;&lt;div id=&quot;skype_c2c_menu_container&quot; class=&quot;skype_c2c_menu_container notranslate&quot; style=&quot;display: none;&quot; onmouseover=&quot;SkypeClick2Call.MenuInjectionHandler.showMenu(this, event)&quot; onmouseout=&quot;SkypeClick2Call.MenuInjectionHandler.hideMenu(this, event)&quot;&gt;&lt;div class=&quot;skype_c2c_menu_click2call&quot;&gt;&lt;a target=&quot;_self&quot; class=&quot;skype_c2c_menu_click2call_action&quot; id=&quot;skype_c2c_menu_click2call_action&quot;&gt;Call&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;skype_c2c_menu_click2sms&quot;&gt;&lt;a target=&quot;_self&quot; class=&quot;skype_c2c_menu_click2sms_action&quot; id=&quot;skype_c2c_menu_click2sms_action&quot;&gt;Send SMS&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;skype_c2c_menu_add2skype&quot;&gt;&lt;a target=&quot;_self&quot; class=&quot;skype_c2c_menu_add2skype_text&quot; id=&quot;skype_c2c_menu_add2skype_text&quot;&gt;Add to Skype&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;skype_c2c_menu_toll_info&quot;&gt;&lt;span class=&quot;skype_c2c_menu_toll_callcredit&quot;&gt;You&#039;ll need Skype Credit&lt;/span&gt;&lt;span class=&quot;skype_c2c_menu_toll_free&quot;&gt;Free via Skype&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    California Attorney General        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/265">PORT</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/262">BSO</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Mon, 07 Jul 2014 17:54:53 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59266 at https://www.privacyrights.org</guid>
+  </item>
+  <item>
+    <title>Milford Schools</title>
+    <link>https://www.privacyrights.org/content/milford-schools</link>
+    <description>&lt;h3 class=&quot;location-locations-header&quot;&gt;Location&lt;/h3&gt;
+&lt;div class=&quot;location-locations-wrapper&quot;&gt;
+&lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;Milford&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Milford&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;MA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Milford%2C+MA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-breach-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Date Breach Made Public:&amp;nbsp;&lt;/div&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;July 2, 2014&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-location field-field-geo-location&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;geo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;location vcard&quot;&gt;&lt;div class=&quot;adr&quot;&gt;
+&lt;span class=&quot;fn&quot;&gt;Milford&lt;/span&gt;
+&lt;span class=&quot;locality&quot;&gt;Milford&lt;/span&gt;, &lt;span class=&quot;region&quot;&gt;MA&lt;/span&gt; &lt;div class=&quot;country-name&quot;&gt;United States&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;map-link&quot;&gt;
+  &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com?q=%2C+Milford%2C+MA%2C+%2C+us&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-breach-quanity&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Records Breached:&amp;nbsp;&lt;/div&gt;
+                    &lt;p&gt;25&lt;/p&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-number-integer field-field-breach-total&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    25        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Up to&amp;nbsp; 25 students at Milford Schools may have had their personal information stolen due to a data breach with a third party billing service, Multi-State Billing Services, located in Somersworth, New Hampshire, when an employee&#039;s laptop was stolen from their locked vehicle in May. &lt;/p&gt;&lt;p&gt;The laptop was password protected but not encrypted, contained information on nearly 3,000 students from 19 school districts in Central and Eastern Massachusetts.&lt;/p&gt;&lt;p&gt;The information on the laptop included names, addresses, Medicaid ID numbers and Social Security numbers.&lt;/p&gt;&lt;p&gt;Multi-State Billing will reimburse costs related to security freezes for
+ the next three years. Information about reimbursement can be obtained 
+by emailing &lt;a href=&quot;mailto:customersupport@msb-services.com&quot;&gt;customersupport@msb-services.com&lt;/a&gt; or phoning &lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;img src=&quot;resource://skype_ff_extension-at-jetpack/skype_ff_extension/data/call_skype_logo.png&quot; alt=&quot;&quot; width=&quot;0&quot; height=&quot;0&quot; /&gt;&lt;span&gt;&lt;span class=&quot;skype_c2c_print_container notranslate&quot;&gt;(855) 285-7433&lt;/span&gt;&lt;span class=&quot;skype_c2c_container notranslate&quot;&gt;&lt;span class=&quot;skype_c2c_highlighting_inactive_common&quot;&gt;&lt;span class=&quot;skype_c2c_textarea_span&quot;&gt;&lt;img class=&quot;skype_c2c_logo_img&quot; src=&quot;resource://skype_ff_extension-at-jetpack/skype_ff_extension/data/call_skype_logo.png&quot; alt=&quot;&quot; width=&quot;0&quot; height=&quot;0&quot; /&gt;&lt;span class=&quot;skype_c2c_text_span&quot;&gt;(855) 285-7433&lt;/span&gt;&lt;span class=&quot;skype_c2c_free_text_span&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;. Because the children aren&#039;t actual victims of identity theft, the credit
+ agencies may charge up to $5 each time to place, temporarily lift or 
+permanently remove a security freeze.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div id=&quot;skype_c2c_menu_container&quot; class=&quot;skype_c2c_menu_container notranslate&quot; style=&quot;display: none;&quot; onmouseover=&quot;SkypeClick2Call.MenuInjectionHandler.showMenu(this, event)&quot; onmouseout=&quot;SkypeClick2Call.MenuInjectionHandler.hideMenu(this, event)&quot;&gt;&lt;div class=&quot;skype_c2c_menu_click2call&quot;&gt;&lt;a target=&quot;_self&quot; class=&quot;skype_c2c_menu_click2call_action&quot; id=&quot;skype_c2c_menu_click2call_action&quot;&gt;Call&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;skype_c2c_menu_click2sms&quot;&gt;&lt;a target=&quot;_self&quot; class=&quot;skype_c2c_menu_click2sms_action&quot; id=&quot;skype_c2c_menu_click2sms_action&quot;&gt;Send SMS&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;skype_c2c_menu_add2skype&quot;&gt;&lt;a target=&quot;_self&quot; class=&quot;skype_c2c_menu_add2skype_text&quot; id=&quot;skype_c2c_menu_add2skype_text&quot;&gt;Add to Skype&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;skype_c2c_menu_toll_info&quot;&gt;&lt;span class=&quot;skype_c2c_menu_toll_callcredit&quot;&gt;You&#039;ll need Skype Credit&lt;/span&gt;&lt;span class=&quot;skype_c2c_menu_toll_free&quot;&gt;Free via Skype&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-type-text field-field-source&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Source:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    PHIPrivacy.net        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+     <category domain="https://www.privacyrights.org/taxonomy/term/265">PORT</category>
+ <category domain="https://www.privacyrights.org/taxonomy/term/259">EDU</category>
+ <category domain="https://www.privacyrights.org/category/year-breach/2014">2014</category>
+ <pubDate>Wed, 02 Jul 2014 17:55:30 +0000</pubDate>
+ <dc:creator>Kim Gough</dc:creator>
+ <guid isPermaLink="false">59231 at https://www.privacyrights.org</guid>
+  </item>
+  </channel>
+</rss>
