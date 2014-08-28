@@ -26,19 +26,19 @@ function queryConnection(connection, query, jsonEntry, table, callback) {
 	});
 }
 
-function checkRecordExists(connection, idName, idValue, table) {
-	var deleteQuery = 'DELETE FROM ' + table + ' WHERE ' + idName + ' LIKE ' + idValue + ';';	
+// function checkRecordExists(connection, idName, idValue, table) {
+// 	var deleteQuery = 'DELETE FROM ' + table + ' WHERE ' + idName + ' LIKE ' + idValue + ';';
 
- 	connection.query(deleteQuery, idValue, function(err, result, fields) {
- 		if (err) { throw err; }
+//  	connection.query(deleteQuery, idValue, function(err, result, fields) {
+//  		if (err) { throw err; }
 
- 		if (result.affectedRows > 0) {
- 			console.log(idName + ' ' + idValue + ' exists.');
- 		}
- 	});
-}
+//  		if (result.affectedRows > 0) {
+//  			console.log(idName + ' ' + idValue + ' exists.');
+//  		}
+//  	});
+// }
 
 // EXPORTS
 exports.initConnection = initConnection;
 exports.queryConnection = queryConnection;
-exports.checkRecordExists = checkRecordExists;
+// exports.checkRecordExists = checkRecordExists;

@@ -1,6 +1,7 @@
 Required node libraries:
 • cheerio
 • mysql
+• numeral
 • xml2js
 • ya-csv
 

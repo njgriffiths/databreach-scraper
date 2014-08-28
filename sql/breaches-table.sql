@@ -2,7 +2,7 @@ use databreaches;
 
 create table breaches (
     `id` int not null auto_increment primary key,
-    `guid` int,
+    `guid` int unique,
     `public_date` datetime,
     `name` varchar(255),
     `entity` varchar(5),

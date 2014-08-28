@@ -1,6 +1,7 @@
 var fetch = require('./fetch-xml');
 var mysql = require('./sql-import');
 var cheerio = require('cheerio');
+var numeral = require('numeral');
 
 
 // VARIABLES
@@ -14,7 +15,7 @@ var dbName = 'databreaches';
 var dbTable = 'breaches';
 
 // mysql queries
-var insertRecord = 'INSERT INTO ' + dbTable + ' SET ?';
+var insertRecord = 'INSERT IGNORE INTO ' + dbTable + ' SET ?';
 
 
 // FUNCTIONS
@@ -31,6 +32,7 @@ var init = function(url) {
 }
 
 var processFeed = function(data) {
+	var recordExists;
 	var json = {};
 	var channel = data.rss.channel[0];
 	var breaches = channel.item;
@@ -43,15 +45,13 @@ var processFeed = function(data) {
 		// console.log('ENTRY: ', Object.keys(entry))
 
 		// prepare a json object for db insert
-		parseMetadata(entry, json);	
+		parseMetadata(entry, json);
+
 		// prepDescription(entry.description[0], json);
 		parseDescription(entry.description[0], json);
 
-		// check for the guid & delete the record if it exists in the db
-		// THIS SHOULD TRIGGER AN UPDATE, NOT DELETE
-		mysql.checkRecordExists(connection, 'guid', json.guid, dbTable);
 		// insert the new record
-		mysql.queryConnection(connection, insertRecord, json, dbTable);
+		mysql.queryConnection(connection, insertRecord, json, dbTable);	
 	});
 
 	// close db connection
@@ -69,10 +69,12 @@ var parseDescription = function(entry, json) {
 	json.country = $('.country-name', location).text();
 
 	// breach info
-	json.records_all = parseInt($('.field-field-breach-quanity p').text().toLowerCase().replace(/,/g , '')) || null;
+	json.records_all = numeral().unformat( $('.field-field-breach-quanity p').text().replace(/ /g, '').replace(/illion/g, '') ) || null;
 	json.source = $('.field-field-source .field-item').text().replace(/\n/g , '').replace(/ /g, '');
 	json.description = $('.location-locations-header').nextAll('p').text();
 	// json.public_date = $('.date-display-single').text(); // this is in metadata
+
+	// console.log("RECORDS: ", $('.field-field-breach-quanity p').text(), json.records_all)
 }
 
 var parseMetadata = function(entry, json) {
