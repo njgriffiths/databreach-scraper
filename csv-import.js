@@ -4,7 +4,7 @@ var mysql = require('./sql-import');
 // var mysql = require('mysql');
 
 // VARIABLES
-var csvPath = '/Users/mr_/interactives/sandbox/node/prc-data-breaches/databreaches-import.csv';
+var csvPath = './databreaches-import.csv';
 
 
 // mysql variabls
@@ -30,7 +30,6 @@ var init = function() {
 		length += 1;
 		var json = csvToJSON(entry);
 
-		// console.log(json)
 		// insert the new record
 		mysql.queryConnection(connection, insertRecord, json, dbTable);
 	});
